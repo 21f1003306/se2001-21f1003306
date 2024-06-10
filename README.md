@@ -1,1 +1,1 @@
-# se2001-21f1003306
+print("Hello World")
